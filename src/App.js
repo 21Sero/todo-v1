@@ -18,7 +18,7 @@ function App() {
     },
     {
       id: Math.random(),
-      text: 'Learn Next',
+      text: 'Learn NextJs',
       isCompleted: false
     },
     {
