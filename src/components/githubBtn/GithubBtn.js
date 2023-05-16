@@ -1,7 +1,7 @@
 import React from 'react';
 import "./githubBtn.css"
 import githubIcon from "./gitHub-black.svg";
-const BtnGitHub = ({link}) => {
+const BtnGitHub = () => {
     return (
 
         <a href="https://github.com/21Sero/todo-v1/tree/main" target="_blank" rel="noreferrer"  className="btn-outline">
