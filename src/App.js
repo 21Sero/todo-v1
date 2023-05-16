@@ -3,6 +3,7 @@ import './styles/App.css';
 import TodoForm from "./components/todoForm/TodoForm";
 import TodoList from "./components/todoList/TodoList";
 import TodoFooter from "./components/todoFooter/TodoFooter";
+import GithubBtn from "./components/githubBtn/GithubBtn";
 
 function App() {
   const [todos, setTodos] = useState([
